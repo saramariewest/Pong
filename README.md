@@ -30,7 +30,3 @@ java -cp src Main
 - PongGame.java — main game logic, rendering, and event handling
 - Ball.java — ball movement, bouncing, and speed handling
 - Paddle.java — paddle positioning and collision detection
-
-## Notes
-
-The game ends when lives reach zero. The ball resets after scoring.
